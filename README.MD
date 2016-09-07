@@ -1,0 +1,1 @@
+This is a barebones extraction of the advanced list from the Sortable example page:http://rubaxa.github.io/Sortable/
